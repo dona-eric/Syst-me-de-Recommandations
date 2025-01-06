@@ -2,3 +2,8 @@
 
 ### L'objectif est d'analyser les données de spotify pour mettre un système de recommandations des chansons similaires avec Word2Vec. 
 ### Les données sont disponibles sur kaggle à l'adresse suivantes : 
+
+
+
+
+https://www.coursera.org/learn/what-is-datascience/home/week/1
